@@ -1,4 +1,4 @@
-# Quarry_Resources-More-Arrows-by-CMD-Golem-Combined-by-Matthew-Hugley
+# Quarry_Resources-by-HeDeAn-More-Arrows-by-CMD-Golem-Textures-combined-by-Matthew-Hugley
 
 Quarry_Resources by HeDeAn & More Arrows by CMD-Golem & Textures combined by Matthew Hugley
 
