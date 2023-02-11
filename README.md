@@ -6,6 +6,10 @@ The files are copyrighted to their respective owners.
 
 The authors License file is labeled "License.pdf"
 
-Vanilla Quarry ver.*.*.* "https://www.planetminecraft.com/data-pack/vanilla-quarry/" HeDeAn
+`Vanilla Quarry ver.*.*.* "https://www.planetminecraft.com/data-pack/vanilla-quarry/" HeDeAn`
 
-vegancraft-RP_v1e.zip "https://www.planetminecraft.com/data-pack/plant-based-foods/" daenvil
+`vegancraft-RP_v1e.zip "https://www.planetminecraft.com/data-pack/plant-based-foods/" daenvil`
+
+What I currently use:
+https://github.com/mhmatthewhugley/MinecraftServer_Resources/raw/main/VegancraftAndQuarry/vegancraft-RP-v1e_vanilla-quarry-resource-pack-ver-1-5_2006f8c61e1bec2daca38628130b97f2568754ca.zip
+2006f8c61e1bec2daca38628130b97f2568754ca
