@@ -2,9 +2,9 @@
 
 MinecraftServer_Resources
 
-The files are copyrighted to their respective owners.
+All files are copyrighted to their respective owners.
 
-The authors License file is labeled "License.pdf"
+One of the authors License file is labeled "License.pdf".
 
 `Vanilla Quarry ver.*.*.* "https://www.planetminecraft.com/data-pack/vanilla-quarry/" HeDeAn`
 
