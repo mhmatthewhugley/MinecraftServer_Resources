@@ -6,5 +6,4 @@
 (manageable-item-frames-e1670.zip) https://www.planetminecraft.com/data-pack/easier-item-frame-management/
 (more_smeltable_items_v2.0.4.zip) https://www.planetminecraft.com/data-pack/more-smeltable-items/
 (plant-based-foods-v1-0-1.zip) https://www.planetminecraft.com/data-pack/plant-based-foods/
-(plant-based-milks-v1-3-1-17.zip) https://www.planetminecraft.com/data-pack/plant-based-milks/
 (scrap_leather_v2.0.1.zip) https://www.planetminecraft.com/data-pack/recyclable-leather/
