@@ -1,1 +1,0 @@
-Uses blazerods instead of scaffholding for the crafting receipe.
