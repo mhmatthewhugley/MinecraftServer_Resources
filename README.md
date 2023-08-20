@@ -3,14 +3,15 @@
 MinecraftServer_Resources
 
 All files are copyrighted to their respective owners.
-
+\
 One of the authors License file is labeled "License.pdf".
 
-What I currently use:\
+What I currently use:
 ```
-https://github.com/mhmatthewhugley/MinecraftServer_Resources/blob/4806cb4e1427205e33aeed488ba773f8712d6a15/Vegancraft%20%26%20Quarry%20ResourcePacks%20Combined/VegancraftRP%26Quarry_Resources_abb363fce28e7537844f98f5b9debda455c7f53a.zip
+https://github.com/mhmatthewhugley/MinecraftServer_Resources/blob/dc415e4079762b68b85acb7a3918b0c8458fe359/Quarry%20%26%20Transport-Pipes%20%26%20Vegancraft%20ResourcePacks%20Combined/Quarry%26Transport-Pipes%26Vegancraft_RP_cc11f387bc6bfcd2252cf04438172516a48e5373.zip
 ```
-```abb363fce28e7537844f98f5b9debda455c7f53a```
+```cc11f387bc6bfcd2252cf04438172516a48e5373```
 
-Server Version and Type:\
+Server Version and Type:
+\
 ```VERSION: 1.18.2. PAPER: 388.```
