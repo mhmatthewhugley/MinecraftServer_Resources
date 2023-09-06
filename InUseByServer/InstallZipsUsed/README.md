@@ -1,4 +1,4 @@
-## Name of Files & Download Links
+## Name of Files and Download Links
 
 - [1.18.2_Recipe Unlocker by CMD-Golem v1.zip](https://www.planetminecraft.com/data-pack/recipe-unlocker/) by CMD-Golem
 - [better_stonecutter_v1.0.1-mc1.17-1.18.2.zip](https://www.planetminecraft.com/data-pack/better-stonecutter-5432526/) by daenvil
