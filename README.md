@@ -8,7 +8,7 @@ One of the authors License file is labeled "License.pdf".
 
 What I currently use:
 ```
-https://github.com/mhmatthewhugley/MinecraftServer_Resources/blob/dc415e4079762b68b85acb7a3918b0c8458fe359/Quarry%20%26%20Transport-Pipes%20%26%20Vegancraft%20ResourcePacks%20Combined/Quarry%26Transport-Pipes%26Vegancraft_RP_cc11f387bc6bfcd2252cf04438172516a48e5373.zip
+https://github.com/mhmatthewhugley/MinecraftServer_Resources/blob/8ed6bcb14cd008684dbe88617e44ab33ce852a32/Quarry%20%26%20Transport-Pipes%20%26%20Vegancraft_ResourcePacks-Combined/Quarry_Transport-Pipes_Vegancraft-RP_cc11f387bc6bfcd2252cf04438172516a48e5373.zip
 ```
 ```cc11f387bc6bfcd2252cf04438172516a48e5373```
 
